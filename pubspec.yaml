@@ -1,5 +1,5 @@
 name: gh_pages
-description: Publish a subdirectory into gh-pages branch
+description: Deploy files to gh-pages branch for Github Pages. Run from CLI or import into your project.
 version: 0.1.0
 repository: https://github.com/vaetas/gh_pages
 

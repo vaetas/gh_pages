@@ -1,6 +1,6 @@
 # Publish to Github Pages.
 
-Dart implementation of [gp-pages](https://github.com/tschaub/gh-pages) package. This package takes 
+Dart implementation of [gh-pages](https://github.com/tschaub/gh-pages) package. This package takes 
 all files from within a selected subfolder, copies them into `gh-pages` branch and uploads it to 
 the remote origin.
 
